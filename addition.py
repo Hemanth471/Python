@@ -1,3 +1,2 @@
-int x=10;
-int y=12;
+int x,y=10;
 print("x+y");
